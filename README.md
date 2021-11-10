@@ -32,6 +32,7 @@
     - I did some research and it looks the API is showing unauthorize error due to below 2 reasons
     1. Because of Cross Environment check
     2. API might try to create some extra autogenrated headers by hitting API which i am unaware of.
+# I have also got the User id - 1589, still not able to access as there might be above checks which is not allowling me    
 # So i am not able to do vimeo action through API
 # I have attached a zip file in Github repo as i am facing some issue with the cloning of my project in Github so i have manually created a zip file and attached
 # Please extract the zip file and go through the project
